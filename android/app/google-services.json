@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "907435761281",
+    "project_id": "justpress-42a89",
+    "storage_bucket": "justpress-42a89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907435761281:android:33ca2879a1075efa92f780",
+        "android_client_info": {
+          "package_name": "com.example.justpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907435761281-a6351mqivp2i62b2ib6nacnb97es1rqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justpress",
+            "certificate_hash": "ed81e980c8c27f308dfa324374a15c2d847dd258"
+          }
+        },
+        {
+          "client_id": "907435761281-neiekcp2ea3bjqcmv985rtsv15cknkk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wcGjUgK618OZ1z5esWTV-X2KQkYEsrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907435761281-neiekcp2ea3bjqcmv985rtsv15cknkk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
